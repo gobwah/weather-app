@@ -128,6 +128,10 @@ A simple react app showing the weather using [Openweather](https://openweatherma
     ```sh
     npm install
     ```
+3. Create a .env file at the project root with your Openweather API key (see .env.example)
+    ```env
+    REACT_APP_OPENWEATHER_APIKEY=API_KEY
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
