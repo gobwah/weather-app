@@ -170,7 +170,6 @@ Project Link: [https://github.com/gobwah/weather-app](https://github.com/gobwah/
 
 ## Acknowledgments
 
--   [@adrianhajdin (JS Mastery)](https://github.com/adrianhajdin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
